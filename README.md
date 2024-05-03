@@ -1,6 +1,6 @@
 ## Hey, I'm Gabriela👋🏻
 - ☕ BackEnd Developer
-- 💻 Análise e Desenvolvimento de Sistemas - UPF
+- 💻 System Analysis and Development - UPF
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabitrombetta/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabi.trombetta/)
