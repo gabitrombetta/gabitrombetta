@@ -16,7 +16,7 @@
 
 🗃️ Databases
 
-![SQL Server](https://imgur.com/jTmXLRe.png)
+![SQL Server](https://mssqlserver.netlify.app/mssqlserver.svg)
 
 ⚙️ OS
 
