@@ -8,7 +8,7 @@
 ## Skills
 💻 Programming Languages
 
-[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cs)](https://skillicons.dev)
 
 📱 FrontEnd
 
