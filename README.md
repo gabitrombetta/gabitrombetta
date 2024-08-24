@@ -16,7 +16,7 @@
 
 🗂️ Frameworks
 
-![FastAPI](https://ibadges.netlify.app/fastapi.svg)
+[![My Skills](https://skillicons.dev/icons?i=fastapi)](https://skillicons.dev)
 
 🗃️ Databases
 
