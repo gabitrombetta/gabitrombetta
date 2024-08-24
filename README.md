@@ -14,9 +14,13 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
+🗂️ Frameworks
+
+![FastAPI](https://ibadges.netlify.app/fastapi.svg)
+
 🗃️ Databases
 
-![SQL Server](https://mssqlserver.netlify.app/mssqlserver.svg)
+![SQL Server](https://ibadges.netlify.app/mssqlserver.svg)
 
 ⚙️ OS
 
