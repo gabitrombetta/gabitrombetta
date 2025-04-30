@@ -7,7 +7,7 @@
 ## Skills
 💻 Programming Languages
 
-[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp)](https://skillicons.dev)
 
 📱 FrontEnd
 
@@ -15,11 +15,12 @@
 
 🗂️ Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=fastapi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=fastapi,django)](https://skillicons.dev)
 
 🗃️ Databases
 
 ![SQL Server](https://ibadges.netlify.app/mssqlserver.svg)
+[![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
 
 ⚙️ OS
 
