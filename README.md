@@ -1,13 +1,14 @@
-## Hey, I'm Gabriela👋🏻
-- 🐍 BackEnd Developer
-- 👩🏻‍🎓 System Analysis and Development - UPF
+## Olá, me chamo Gabriela👋🏻
+- 🐍 Desenvolvedora Backend Python
+- 👩🏻‍🎓 Análise e Desenvolvimento de Sistemas - UPF
+- 👩🏻‍🎓 Ciência da Computação- UNINTER
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabitrombetta/)
 
 ## Skills
 💻 Programming Languages
 
-[![My Skills](https://skillicons.dev/icons?i=py,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 
 📱 FrontEnd
 
@@ -28,4 +29,4 @@
 
 🛠️ Tools
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,git,github,docker)](https://skillicons.dev)
