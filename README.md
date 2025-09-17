@@ -15,7 +15,7 @@
 
 🗂️ Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,fastapi,django,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,fastapi)](https://skillicons.dev)
 
 🗃️ Databases
 
