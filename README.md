@@ -8,7 +8,7 @@
  
 ## 📱 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabitrombetta/)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?logo=gmail&logoColor=red)](mailto:gabrielatrombetta20@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?logo=gmail&logoColor=red)](https://mail.google.com/mail/?view=cm&to=gabrielatrombetta20@gmail.com)
 
 ## 🛠️ Tech Stack
 #### 💻 Programação & Dados
