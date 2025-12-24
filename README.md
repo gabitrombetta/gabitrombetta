@@ -1,8 +1,10 @@
 
 ## 🤖 Olá, me chamo Gabriela👋🏻
-👩🏻‍💻 Desenvolvedora Backend
+👩🏻‍💻 Software & Data Engineer
 
 🎓 Cursando Análise e Desenvolvimento de Sistemas na [Universidade de Passo Fundo](https://www.upf.br/)
+
+☁️ [1x AWS Certified](https://www.credly.com/badges/fe4751e5-d950-432b-904c-a8c3ef16934d/linked_in_profile)
 
 🔠 Inglês Avançado - [EFSET, nível C1](https://cert.efset.org/omd6Tc)
  
